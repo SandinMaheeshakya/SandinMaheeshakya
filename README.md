@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandin Maheeshakya</h1>
 <h3 align="center">A passionate Data Science Student from Sri Lanka!</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207..](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fpixel-hacking&psig=AOvVaw3-73KxxjqSkV15ee6KOaRg&ust=1721916605212000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiWhK7tv4cDFQAAAAAdAAAAABAr)">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejczOG1jdWl3OHJzeHB2emNqNjJmcmlwdHp6bGRrbjczNzlsaHVpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.webp">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
