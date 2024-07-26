@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandin Maheeshakya</h1>
+<h3 align="center">A passionate Data Science Student from Sri Lanka!</h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
