@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandin Maheeshakya</h1>
-<h3 align="center">A passionate Data Science Student from Sri Lanka! A Python and NLP enthusiast in Data Science field, passionate about achieving a high quality standard in the given tasks. Strong believer in hard work and team work. Willing to learn modern technologies and new frameworks.</h3>
+<h3 align="center">A passionate Data Science Student from Sri Lanka! A Python and NLP enthusiast in Data Science field, passionate about achieving a high quality standard in the given tasks. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
