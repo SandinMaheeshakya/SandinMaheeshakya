@@ -2,17 +2,17 @@
 <h3 align="center">Fintech | NLP | NeSyL</h3>
 
 <p align="center">
-Curated researcher specializing in Neuro-Symbolic Learning for intelligent AI systems.
+Curated researcher specializing in Neuro-Symbolic Learning for Finnancial intelligent AI systems.
 </p>
 
 ---
 
 ### Tech Stack
-- **Languages:** Python, SQL  
-- **Data & ML:** Pandas, NumPy, Scikit-learn, NLP  
+- **Languages:** Python, Rust, Java
+- **Data & ML:** Scikit-learn, Tensorflow, Keras, HuggingFace
 - **Big Data:** Spark  
-- **Backend & MLOps:** FastAPI, Docker  
-- **Databases:** PostgreSQL  
+- **Backend & MLOps:** FastAPI, MLFLOW, Weights & Biases , Docker  
+- **Databases:** Oracle,PostgreSQL, MongoDB, Snowflake  
 ---
 
 ### 📫 Connect
