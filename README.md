@@ -1,5 +1,5 @@
 <h1 align="center">Sandin Maheeshakya</h1>
-<h3 align="center">Fintech | NLP | NeSyL</h3>
+<h3 align="center"> NeSyL | Fintech </h3>
 
 <p align="center">
 Curated researcher specializing in Neuro-Symbolic Learning for Finnancial intelligent AI systems.
